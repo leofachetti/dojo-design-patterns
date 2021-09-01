@@ -1,4 +1,4 @@
-package com.mercadolibre.si.builder
+package com.mercadolibre.si
 
 class Main {
     val greeting: String

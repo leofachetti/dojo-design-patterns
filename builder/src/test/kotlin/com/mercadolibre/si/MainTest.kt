@@ -1,4 +1,4 @@
-package com.mercadolibre.si.builder
+package com.mercadolibre.si
 
 import org.junit.jupiter.api.Assertions.assertNotNull
 import org.junit.jupiter.api.Test

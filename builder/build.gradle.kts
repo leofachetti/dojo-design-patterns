@@ -1,4 +1,4 @@
 
 application {
-    mainClass.set("com.mercadolibre.si.builder.MainKt")
+    mainClass.set("com.mercadolibre.si.MainKt")
 }

@@ -1,3 +1,3 @@
-# [Builder](/src/main/kotlin/com/mercadolibre/si/builder/Main.kt)
+# [Builder](/src/main/kotlin/com/mercadolibre/si/Main.kt)
 
 ---
