@@ -1,4 +1,4 @@
-package com.mercadolibre.si
+package dojo.design.patterns
 
 class Main {
     val greeting: String

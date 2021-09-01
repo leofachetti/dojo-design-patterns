@@ -1,4 +1,4 @@
-package com.mercadolibre.si
+package dojo.design.patterns
 
 import org.junit.jupiter.api.Assertions.assertNotNull
 import org.junit.jupiter.api.Test

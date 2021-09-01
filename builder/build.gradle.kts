@@ -1,4 +1,4 @@
 
 application {
-    mainClass.set("com.mercadolibre.si.MainKt")
+    mainClass.set("dojo.design.patterns.MainKt")
 }
